@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![crogen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crogen0407&hide=stars,contribs&count_private=true&show_icons=true&&theme=dracula)
+![crogen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crogen0407,contribs&count_private=true&show_icons=true&&theme=dracula)
